@@ -1,3 +1,8 @@
+
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Korinne Ramcharitar
+ */
 package base;
 
 //Working with multiple inputs and currency can introduce some tricky precision issues.
